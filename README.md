@@ -1,2 +1,4 @@
 # Encryption-and-Security-in-Messaging-Development-of-an-End-to-End-Encrypted-Platform
 This project aims to discuss and research this topic, and gaining first-hand experience through development of a messaging platform featuring end-to-end encryption (E2EE) ensuring security from sender to recipient.
+
+In modern technology, privacy is hard to come by and ensuring security and privacy of messages is a major concern. Traditional messaging platforms have become outdated and are susceptible to interception and eavesdropping. This poses a risk for unauthorized access, and data theft on a personal and organizational level. This project aims to discuss and research this topic, and gaining first-hand experience through development of a messaging platform featuring end-to-end encryption (E2EE) ensuring security from sender to recipient.
